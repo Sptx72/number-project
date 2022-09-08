@@ -1,5 +1,4 @@
 import { Component } from '@angular/core';
-import { NumberServiceService } from './number-service.service';
 
 @Component({
   selector: 'app-root',
